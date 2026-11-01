@@ -1,0 +1,1443 @@
+{
+    "servidor": {
+      "matricula_vinculo": "151285/02",
+      "cargo": "15300 - AUDITOR FISCAL DO TESOURO ESTADUAL",
+      "lotacao": "150108200000 - GER DE ACOES FISCAIS 1 - III RF",
+      "inicio_exercicio": "2025-11-19",
+      "situacao": "ATIVO"
+    },
+    "fonte": "Portal do Funcionário (sou.pe.gov.br) - Demonstrativo de Pagamento",
+    "extraido_em": "2026-11-01",
+    "contracheques": [
+      {
+        "mes_ano": "2025-11",
+        "folha": "[REAL] Calc Mensal Ati/Ina/Res/Ref",
+        "numero_folha": 1,
+        "ficha": "26062110136",
+        "data_credito": "2025-11-28",
+        "total_vantagens": 14222.06,
+        "total_descontos": 3328.83,
+        "liquido": 10893.23,
+        "vantagens": [
+          {
+            "codigo": "00002",
+            "rubrica": "VENCIMENTO",
+            "info": "I01",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2025-11",
+            "valor": 7748.04
+          },
+          {
+            "codigo": "00507",
+            "rubrica": "AUXILIO ALIMENTACAO SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2025-11",
+            "valor": 800.0
+          },
+          {
+            "codigo": "00605",
+            "rubrica": "ASSISTENCIA MEDICO SOCIAL SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2025-11",
+            "valor": 1800.0
+          },
+          {
+            "codigo": "01504",
+            "rubrica": "GRT RISCO DE VIDA GOATE",
+            "info": "5.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2025-11",
+            "valor": 387.4
+          },
+          {
+            "codigo": "01635",
+            "rubrica": "GRT ADMINISTRACAO FISCAL",
+            "info": "3%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2025-11",
+            "valor": 232.44
+          },
+          {
+            "codigo": "02012",
+            "rubrica": "GRT RESULTADOS GOATE",
+            "info": "42.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2025-11",
+            "valor": 3254.18
+          }
+        ],
+        "descontos": [
+          {
+            "codigo": "04002",
+            "rubrica": "FUNAPREV",
+            "info": "14.00%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2025-11",
+            "valor": 1142.04
+          },
+          {
+            "codigo": "04006",
+            "rubrica": "PREV COMPLEM PATROC",
+            "info": "8.50%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2025-11",
+            "valor": 294.5
+          },
+          {
+            "codigo": "04061",
+            "rubrica": "Desconto de Imposto de Renda",
+            "info": "16.281881%  1 Vinc",
+            "complemento": "Normal",
+            "mes_ano_direito": "2025-11",
+            "valor": 1892.29
+          }
+        ]
+      },
+      {
+        "mes_ano": "2025-12",
+        "folha": "[REAL] Calc 13o Ati/Ina/Res/Ref",
+        "numero_folha": 13,
+        "ficha": "26064820836",
+        "data_credito": "2025-12-19",
+        "total_vantagens": 2421.27,
+        "total_descontos": 338.98,
+        "liquido": 2082.29,
+        "vantagens": [
+          {
+            "codigo": "00002",
+            "rubrica": "VENCIMENTO",
+            "info": "I01",
+            "complemento": "13 Reg",
+            "mes_ano_direito": "2025-12",
+            "valor": 1614.18
+          },
+          {
+            "codigo": "01504",
+            "rubrica": "GRT RISCO DE VIDA GOATE",
+            "info": "5.00%",
+            "complemento": "13 Reg",
+            "mes_ano_direito": "2025-12",
+            "valor": 80.71
+          },
+          {
+            "codigo": "01635",
+            "rubrica": "GRT ADMINISTRACAO FISCAL",
+            "info": "1%",
+            "complemento": "13 Reg",
+            "mes_ano_direito": "2025-12",
+            "valor": 48.43
+          },
+          {
+            "codigo": "02012",
+            "rubrica": "GRT RESULTADOS GOATE",
+            "info": "42.00%",
+            "complemento": "13 Reg",
+            "mes_ano_direito": "2025-12",
+            "valor": 677.95
+          }
+        ],
+        "descontos": [
+          {
+            "codigo": "04002",
+            "rubrica": "FUNAPREV",
+            "info": "14.00%",
+            "complemento": "13o",
+            "mes_ano_direito": "2025-12",
+            "valor": 338.98
+          }
+        ]
+      },
+      {
+        "mes_ano": "2025-12",
+        "folha": "[REAL] Calc Mensal Ati/Ina/Res/Ref",
+        "numero_folha": 1,
+        "ficha": "26065990975",
+        "data_credito": "2025-12-30",
+        "total_vantagens": 35555.15,
+        "total_descontos": 9197.24,
+        "liquido": 26357.91,
+        "vantagens": [
+          {
+            "codigo": "00002",
+            "rubrica": "VENCIMENTO",
+            "info": "I01",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2025-12",
+            "valor": 19370.1
+          },
+          {
+            "codigo": "00507",
+            "rubrica": "AUXILIO ALIMENTACAO SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2025-12",
+            "valor": 2000.0
+          },
+          {
+            "codigo": "00605",
+            "rubrica": "ASSISTENCIA MEDICO SOCIAL SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2025-12",
+            "valor": 4500.0
+          },
+          {
+            "codigo": "01504",
+            "rubrica": "GRT RISCO DE VIDA GOATE",
+            "info": "5.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2025-12",
+            "valor": 968.51
+          },
+          {
+            "codigo": "01635",
+            "rubrica": "GRT ADMINISTRACAO FISCAL",
+            "info": "3%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2025-12",
+            "valor": 581.1
+          },
+          {
+            "codigo": "02012",
+            "rubrica": "GRT RESULTADOS GOATE",
+            "info": "42.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2025-12",
+            "valor": 8135.44
+          }
+        ],
+        "descontos": [
+          {
+            "codigo": "04002",
+            "rubrica": "FUNAPREV",
+            "info": "14.00%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2025-12",
+            "valor": 1142.04
+          },
+          {
+            "codigo": "04006",
+            "rubrica": "PREV COMPLEM PATROC",
+            "info": "8.50%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2025-12",
+            "valor": 1776.31
+          },
+          {
+            "codigo": "04061",
+            "rubrica": "Desconto de Imposto de Renda",
+            "info": "21.610248%  1 Vinc",
+            "complemento": "Normal",
+            "mes_ano_direito": "2025-12",
+            "valor": 6278.89
+          }
+        ]
+      },
+      {
+        "mes_ano": "2026-01",
+        "folha": "[REAL] Calc Mensal Ati/Ina/Res/Ref",
+        "numero_folha": 1,
+        "ficha": "26069424717",
+        "data_credito": "2026-01-30",
+        "total_vantagens": 35555.15,
+        "total_descontos": 13360.42,
+        "liquido": 22194.73,
+        "vantagens": [
+          {
+            "codigo": "00002",
+            "rubrica": "VENCIMENTO",
+            "info": "I01",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-01",
+            "valor": 19370.1
+          },
+          {
+            "codigo": "00507",
+            "rubrica": "AUXILIO ALIMENTACAO SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-01",
+            "valor": 2000.0
+          },
+          {
+            "codigo": "00605",
+            "rubrica": "ASSISTENCIA MEDICO SOCIAL SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-01",
+            "valor": 4500.0
+          },
+          {
+            "codigo": "01504",
+            "rubrica": "GRT RISCO DE VIDA GOATE",
+            "info": "5.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-01",
+            "valor": 968.51
+          },
+          {
+            "codigo": "01635",
+            "rubrica": "GRT ADMINISTRACAO FISCAL",
+            "info": "3%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-01",
+            "valor": 581.1
+          },
+          {
+            "codigo": "02012",
+            "rubrica": "GRT RESULTADOS GOATE",
+            "info": "42.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-01",
+            "valor": 8135.44
+          }
+        ],
+        "descontos": [
+          {
+            "codigo": "04002",
+            "rubrica": "FUNAPREV",
+            "info": "14.00%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-01",
+            "valor": 1186.58
+          },
+          {
+            "codigo": "04006",
+            "rubrica": "PREV COMPLEM PATROC",
+            "info": "8.50%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-01",
+            "valor": 1749.27
+          },
+          {
+            "codigo": "04061",
+            "rubrica": "Desconto de Imposto de Renda",
+            "info": "21.593693%  1 Vinc",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-01",
+            "valor": 6274.08
+          },
+          {
+            "codigo": "04506",
+            "rubrica": "BRADESCO S/A",
+            "info": "001/024",
+            "complemento": "EMPRESTIMO CONSIG 07",
+            "mes_ano_direito": "2026-01",
+            "valor": 2525.73
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "001/999",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-01",
+            "valor": 103.5
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "001/999",
+            "complemento": "PL SAUDE UNIMED",
+            "mes_ano_direito": "2026-01",
+            "valor": 1327.56
+          },
+          {
+            "codigo": "04734",
+            "rubrica": "SIND DOS FUNC INTG DO GRUPO OCUPAC AUDITORIA TES EST PE",
+            "info": "1.00%",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-01",
+            "valor": 193.7
+          }
+        ]
+      },
+      {
+        "mes_ano": "2026-02",
+        "folha": "[REAL] Calc Mensal Ati/Ina/Res/Ref",
+        "numero_folha": 1,
+        "ficha": "26074331455",
+        "data_credito": "2026-02-27",
+        "total_vantagens": 35555.15,
+        "total_descontos": 13374.42,
+        "liquido": 22180.73,
+        "vantagens": [
+          {
+            "codigo": "00002",
+            "rubrica": "VENCIMENTO",
+            "info": "I01",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-02",
+            "valor": 19370.1
+          },
+          {
+            "codigo": "00507",
+            "rubrica": "AUXILIO ALIMENTACAO SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-02",
+            "valor": 2000.0
+          },
+          {
+            "codigo": "00605",
+            "rubrica": "ASSISTENCIA MEDICO SOCIAL SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-02",
+            "valor": 4500.0
+          },
+          {
+            "codigo": "01504",
+            "rubrica": "GRT RISCO DE VIDA GOATE",
+            "info": "5.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-02",
+            "valor": 968.51
+          },
+          {
+            "codigo": "01635",
+            "rubrica": "GRT ADMINISTRACAO FISCAL",
+            "info": "3%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-02",
+            "valor": 581.1
+          },
+          {
+            "codigo": "02012",
+            "rubrica": "GRT RESULTADOS GOATE",
+            "info": "42.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-02",
+            "valor": 8135.44
+          }
+        ],
+        "descontos": [
+          {
+            "codigo": "04002",
+            "rubrica": "FUNAPREV",
+            "info": "14.00%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-02",
+            "valor": 1186.58
+          },
+          {
+            "codigo": "04006",
+            "rubrica": "PREV COMPLEM PATROC",
+            "info": "8.50%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-02",
+            "valor": 1749.27
+          },
+          {
+            "codigo": "04061",
+            "rubrica": "Desconto de Imposto de Renda",
+            "info": "21.593693%  1 Vinc",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-02",
+            "valor": 6274.08
+          },
+          {
+            "codigo": "04506",
+            "rubrica": "BRADESCO S/A",
+            "info": "002/024",
+            "complemento": "EMPRESTIMO CONSIG 07",
+            "mes_ano_direito": "2026-02",
+            "valor": 2525.73
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "001/999",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-02",
+            "valor": 117.5
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "002/999",
+            "complemento": "PL SAUDE UNIMED",
+            "mes_ano_direito": "2026-02",
+            "valor": 1327.56
+          },
+          {
+            "codigo": "04734",
+            "rubrica": "SIND DOS FUNC INTG DO GRUPO OCUPAC AUDITORIA TES EST PE",
+            "info": "1.00%",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-02",
+            "valor": 193.7
+          }
+        ]
+      },
+      {
+        "mes_ano": "2026-03",
+        "folha": "[REAL] Calc Mensal Ati/Ina/Res/Ref",
+        "numero_folha": 1,
+        "ficha": "26077282853",
+        "data_credito": "2026-03-31",
+        "total_vantagens": 35555.15,
+        "total_descontos": 13270.15,
+        "liquido": 22285.0,
+        "vantagens": [
+          {
+            "codigo": "00002",
+            "rubrica": "VENCIMENTO",
+            "info": "I01",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-03",
+            "valor": 19370.1
+          },
+          {
+            "codigo": "00507",
+            "rubrica": "AUXILIO ALIMENTACAO SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-03",
+            "valor": 2000.0
+          },
+          {
+            "codigo": "00605",
+            "rubrica": "ASSISTENCIA MEDICO SOCIAL SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-03",
+            "valor": 4500.0
+          },
+          {
+            "codigo": "01504",
+            "rubrica": "GRT RISCO DE VIDA GOATE",
+            "info": "5.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-03",
+            "valor": 968.51
+          },
+          {
+            "codigo": "01635",
+            "rubrica": "GRT ADMINISTRACAO FISCAL",
+            "info": "3%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-03",
+            "valor": 581.1
+          },
+          {
+            "codigo": "02012",
+            "rubrica": "GRT RESULTADOS GOATE",
+            "info": "42.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-03",
+            "valor": 8135.44
+          }
+        ],
+        "descontos": [
+          {
+            "codigo": "04002",
+            "rubrica": "FUNAPREV",
+            "info": "14.00%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-03",
+            "valor": 1186.58
+          },
+          {
+            "codigo": "04006",
+            "rubrica": "PREV COMPLEM PATROC",
+            "info": "8.50%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-03",
+            "valor": 1749.27
+          },
+          {
+            "codigo": "04061",
+            "rubrica": "Desconto de Imposto de Renda",
+            "info": "21.234824%  1 Vinc",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-03",
+            "valor": 6169.81
+          },
+          {
+            "codigo": "04506",
+            "rubrica": "BRADESCO S/A",
+            "info": "003/024",
+            "complemento": "EMPRESTIMO CONSIG 07",
+            "mes_ano_direito": "2026-03",
+            "valor": 2525.73
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "002/999",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-03",
+            "valor": 117.5
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "003/999",
+            "complemento": "PL SAUDE UNIMED",
+            "mes_ano_direito": "2026-03",
+            "valor": 1327.56
+          },
+          {
+            "codigo": "04734",
+            "rubrica": "SIND DOS FUNC INTG DO GRUPO OCUPAC AUDITORIA TES EST PE",
+            "info": "1.00%",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-03",
+            "valor": 193.7
+          }
+        ]
+      },
+      {
+        "mes_ano": "2026-04",
+        "folha": "[REAL] Calc Mensal Ati/Ina/Res/Ref",
+        "numero_folha": 1,
+        "ficha": "26080657902",
+        "data_credito": "2026-04-30",
+        "total_vantagens": 40691.36,
+        "total_descontos": 15372.17,
+        "liquido": 25319.19,
+        "vantagens": [
+          {
+            "codigo": "00002",
+            "rubrica": "VENCIMENTO",
+            "info": "I01",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-04",
+            "valor": 19370.1
+          },
+          {
+            "codigo": "00507",
+            "rubrica": "AUXILIO ALIMENTACAO SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-04",
+            "valor": 2000.0
+          },
+          {
+            "codigo": "00605",
+            "rubrica": "ASSISTENCIA MEDICO SOCIAL SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-04",
+            "valor": 4500.0
+          },
+          {
+            "codigo": "01504",
+            "rubrica": "GRT RISCO DE VIDA GOATE",
+            "info": "5.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-04",
+            "valor": 968.51
+          },
+          {
+            "codigo": "01636",
+            "rubrica": "GRT OPERACOES FISCAIS",
+            "info": "15%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-04",
+            "valor": 2905.52
+          },
+          {
+            "codigo": "01636",
+            "rubrica": "GRT OPERACOES FISCAIS",
+            "info": "15%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-03",
+            "valor": 2811.79
+          },
+          {
+            "codigo": "02012",
+            "rubrica": "GRT RESULTADOS GOATE",
+            "info": "42.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-04",
+            "valor": 8135.44
+          }
+        ],
+        "descontos": [
+          {
+            "codigo": "01635",
+            "rubrica": "GRT ADMINISTRACAO FISCAL",
+            "info": "3%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-03",
+            "valor": 562.35
+          },
+          {
+            "codigo": "04002",
+            "rubrica": "FUNAPREV",
+            "info": "14.00%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-04",
+            "valor": 1186.58
+          },
+          {
+            "codigo": "04006",
+            "rubrica": "PREV COMPLEM PATROC",
+            "info": "8.50%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-04",
+            "valor": 1946.84
+          },
+          {
+            "codigo": "04006",
+            "rubrica": "PREV COMPLEM PATROC",
+            "info": "8.50%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-03",
+            "valor": 191.2
+          },
+          {
+            "codigo": "04061",
+            "rubrica": "Desconto de Imposto de Renda",
+            "info": "21.769032%  1 Vinc",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-04",
+            "valor": 7320.71
+          },
+          {
+            "codigo": "04506",
+            "rubrica": "BRADESCO S/A",
+            "info": "004/024",
+            "complemento": "EMPRESTIMO CONSIG 07",
+            "mes_ano_direito": "2026-04",
+            "valor": 2525.73
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "003/999",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-04",
+            "valor": 117.5
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "004/999",
+            "complemento": "PL SAUDE UNIMED",
+            "mes_ano_direito": "2026-04",
+            "valor": 1327.56
+          },
+          {
+            "codigo": "04734",
+            "rubrica": "SIND DOS FUNC INTG DO GRUPO OCUPAC AUDITORIA TES EST PE",
+            "info": "1.00%",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-04",
+            "valor": 193.7
+          }
+        ]
+      },
+      {
+        "mes_ano": "2026-05",
+        "folha": "[REAL] Calc Mensal Ati/Ina/Res/Ref",
+        "numero_folha": 1,
+        "ficha": "26082887285",
+        "data_credito": "2026-06-11",
+        "total_vantagens": 37879.57,
+        "total_descontos": 14052.6,
+        "liquido": 23826.97,
+        "vantagens": [
+          {
+            "codigo": "00002",
+            "rubrica": "VENCIMENTO",
+            "info": "I01",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-05",
+            "valor": 19370.1
+          },
+          {
+            "codigo": "00507",
+            "rubrica": "AUXILIO ALIMENTACAO SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-05",
+            "valor": 2000.0
+          },
+          {
+            "codigo": "00605",
+            "rubrica": "ASSISTENCIA MEDICO SOCIAL SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-05",
+            "valor": 4500.0
+          },
+          {
+            "codigo": "01504",
+            "rubrica": "GRT RISCO DE VIDA GOATE",
+            "info": "5.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-05",
+            "valor": 968.51
+          },
+          {
+            "codigo": "01636",
+            "rubrica": "GRT OPERACOES FISCAIS",
+            "info": "15%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-05",
+            "valor": 2905.52
+          },
+          {
+            "codigo": "02012",
+            "rubrica": "GRT RESULTADOS GOATE",
+            "info": "42.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-05",
+            "valor": 8135.44
+          }
+        ],
+        "descontos": [
+          {
+            "codigo": "04002",
+            "rubrica": "FUNAPREV",
+            "info": "14.00%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-05",
+            "valor": 1186.58
+          },
+          {
+            "codigo": "04006",
+            "rubrica": "PREV COMPLEM PATROC",
+            "info": "8.50%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-05",
+            "valor": 1946.84
+          },
+          {
+            "codigo": "04061",
+            "rubrica": "Desconto de Imposto de Renda",
+            "info": "21.525757%  1 Vinc",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-05",
+            "valor": 6754.69
+          },
+          {
+            "codigo": "04506",
+            "rubrica": "BRADESCO S/A",
+            "info": "005/024",
+            "complemento": "EMPRESTIMO CONSIG 07",
+            "mes_ano_direito": "2026-05",
+            "valor": 2525.73
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "004/999",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-05",
+            "valor": 117.5
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "005/999",
+            "complemento": "PL SAUDE UNIMED",
+            "mes_ano_direito": "2026-05",
+            "valor": 1327.56
+          },
+          {
+            "codigo": "04734",
+            "rubrica": "SIND DOS FUNC INTG DO GRUPO OCUPAC AUDITORIA TES EST PE",
+            "info": "1.00%",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-05",
+            "valor": 193.7
+          }
+        ]
+      },
+      {
+        "mes_ano": "2026-06",
+        "folha": "[REAL] Calc Mensal Ati/Ina/Res/Ref",
+        "numero_folha": 1,
+        "ficha": "26086013670",
+        "data_credito": "2026-07-13",
+        "total_vantagens": 42919.24,
+        "total_descontos": 14909.9,
+        "liquido": 28009.34,
+        "vantagens": [
+          {
+            "codigo": "00002",
+            "rubrica": "VENCIMENTO",
+            "info": "I01",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-06",
+            "valor": 20629.16
+          },
+          {
+            "codigo": "00507",
+            "rubrica": "AUXILIO ALIMENTACAO SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-06",
+            "valor": 3800.0
+          },
+          {
+            "codigo": "00605",
+            "rubrica": "ASSISTENCIA MEDICO SOCIAL SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-06",
+            "valor": 5700.0
+          },
+          {
+            "codigo": "01504",
+            "rubrica": "GRT RISCO DE VIDA GOATE",
+            "info": "5.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-06",
+            "valor": 1031.46
+          },
+          {
+            "codigo": "01636",
+            "rubrica": "GRT OPERACOES FISCAIS",
+            "info": "15%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-06",
+            "valor": 3094.37
+          },
+          {
+            "codigo": "02012",
+            "rubrica": "GRT RESULTADOS GOATE",
+            "info": "42.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-06",
+            "valor": 8664.25
+          }
+        ],
+        "descontos": [
+          {
+            "codigo": "04002",
+            "rubrica": "FUNAPREV",
+            "info": "14.00%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-06",
+            "valor": 1186.58
+          },
+          {
+            "codigo": "04006",
+            "rubrica": "PREV COMPLEM PATROC",
+            "info": "8.50%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-06",
+            "valor": 2120.21
+          },
+          {
+            "codigo": "04061",
+            "rubrica": "Desconto de Imposto de Renda",
+            "info": "21.747712%  1 Vinc",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-06",
+            "valor": 7267.92
+          },
+          {
+            "codigo": "04506",
+            "rubrica": "BRADESCO S/A",
+            "info": "006/024",
+            "complemento": "EMPRESTIMO CONSIG 07",
+            "mes_ano_direito": "2026-06",
+            "valor": 2525.73
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "005/999",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-06",
+            "valor": 117.5
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "001/999",
+            "complemento": "PL SAUDE UNIMED",
+            "mes_ano_direito": "2026-06",
+            "valor": 1485.67
+          },
+          {
+            "codigo": "04734",
+            "rubrica": "SIND DOS FUNC INTG DO GRUPO OCUPAC AUDITORIA TES EST PE",
+            "info": "1.00%",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-06",
+            "valor": 206.29
+          }
+        ]
+      },
+      {
+        "mes_ano": "2026-07",
+        "folha": "[REAL] Calc Mensal Ati/Ina/Res/Ref",
+        "numero_folha": 1,
+        "ficha": "26089355910",
+        "data_credito": "2026-08-13",
+        "total_vantagens": 42919.24,
+        "total_descontos": 14909.9,
+        "liquido": 28009.34,
+        "vantagens": [
+          {
+            "codigo": "00002",
+            "rubrica": "VENCIMENTO",
+            "info": "I01",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-07",
+            "valor": 20629.16
+          },
+          {
+            "codigo": "00507",
+            "rubrica": "AUXILIO ALIMENTACAO SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-07",
+            "valor": 3800.0
+          },
+          {
+            "codigo": "00605",
+            "rubrica": "ASSISTENCIA MEDICO SOCIAL SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-07",
+            "valor": 5700.0
+          },
+          {
+            "codigo": "01504",
+            "rubrica": "GRT RISCO DE VIDA GOATE",
+            "info": "5.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-07",
+            "valor": 1031.46
+          },
+          {
+            "codigo": "01636",
+            "rubrica": "GRT OPERACOES FISCAIS",
+            "info": "15%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-07",
+            "valor": 3094.37
+          },
+          {
+            "codigo": "02012",
+            "rubrica": "GRT RESULTADOS GOATE",
+            "info": "42.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-07",
+            "valor": 8664.25
+          }
+        ],
+        "descontos": [
+          {
+            "codigo": "04002",
+            "rubrica": "FUNAPREV",
+            "info": "14.00%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-07",
+            "valor": 1186.58
+          },
+          {
+            "codigo": "04006",
+            "rubrica": "PREV COMPLEM PATROC",
+            "info": "8.50%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-07",
+            "valor": 2120.21
+          },
+          {
+            "codigo": "04061",
+            "rubrica": "Desconto de Imposto de Renda",
+            "info": "21.747712%  1 Vinc",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-07",
+            "valor": 7267.92
+          },
+          {
+            "codigo": "04506",
+            "rubrica": "BRADESCO S/A",
+            "info": "007/024",
+            "complemento": "EMPRESTIMO CONSIG 07",
+            "mes_ano_direito": "2026-07",
+            "valor": 2525.73
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "006/999",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-07",
+            "valor": 117.5
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "002/999",
+            "complemento": "PL SAUDE UNIMED",
+            "mes_ano_direito": "2026-07",
+            "valor": 1485.67
+          },
+          {
+            "codigo": "04734",
+            "rubrica": "SIND DOS FUNC INTG DO GRUPO OCUPAC AUDITORIA TES EST PE",
+            "info": "1.00%",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-07",
+            "valor": 206.29
+          }
+        ]
+      },
+      {
+        "mes_ano": "2026-08",
+        "folha": "[REAL] Calc Mensal Ati/Ina/Res/Ref",
+        "numero_folha": 1,
+        "ficha": "26091854499",
+        "data_credito": "2026-09-16",
+        "total_vantagens": 42919.24,
+        "total_descontos": 14909.9,
+        "liquido": 28009.34,
+        "vantagens": [
+          {
+            "codigo": "00002",
+            "rubrica": "VENCIMENTO",
+            "info": "I01",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-08",
+            "valor": 20629.16
+          },
+          {
+            "codigo": "00507",
+            "rubrica": "AUXILIO ALIMENTACAO SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-08",
+            "valor": 3800.0
+          },
+          {
+            "codigo": "00605",
+            "rubrica": "ASSISTENCIA MEDICO SOCIAL SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-08",
+            "valor": 5700.0
+          },
+          {
+            "codigo": "01504",
+            "rubrica": "GRT RISCO DE VIDA GOATE",
+            "info": "5.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-08",
+            "valor": 1031.46
+          },
+          {
+            "codigo": "01636",
+            "rubrica": "GRT OPERACOES FISCAIS",
+            "info": "15%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-08",
+            "valor": 3094.37
+          },
+          {
+            "codigo": "02012",
+            "rubrica": "GRT RESULTADOS GOATE",
+            "info": "42.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-08",
+            "valor": 8664.25
+          }
+        ],
+        "descontos": [
+          {
+            "codigo": "04002",
+            "rubrica": "FUNAPREV",
+            "info": "14.00%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-08",
+            "valor": 1186.58
+          },
+          {
+            "codigo": "04006",
+            "rubrica": "PREV COMPLEM PATROC",
+            "info": "8.50%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-08",
+            "valor": 2120.21
+          },
+          {
+            "codigo": "04061",
+            "rubrica": "Desconto de Imposto de Renda",
+            "info": "21.747712%  1 Vinc",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-08",
+            "valor": 7267.92
+          },
+          {
+            "codigo": "04506",
+            "rubrica": "BRADESCO S/A",
+            "info": "008/024",
+            "complemento": "EMPRESTIMO CONSIG 07",
+            "mes_ano_direito": "2026-08",
+            "valor": 2525.73
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "007/999",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-08",
+            "valor": 117.5
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "003/999",
+            "complemento": "PL SAUDE UNIMED",
+            "mes_ano_direito": "2026-08",
+            "valor": 1485.67
+          },
+          {
+            "codigo": "04734",
+            "rubrica": "SIND DOS FUNC INTG DO GRUPO OCUPAC AUDITORIA TES EST PE",
+            "info": "1.00%",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-08",
+            "valor": 206.29
+          }
+        ]
+      },
+      {
+        "mes_ano": "2026-09",
+        "folha": "[REAL] Calc Mensal Ati/Ina/Res/Ref",
+        "numero_folha": 1,
+        "ficha": "26094601939",
+        "data_credito": "2026-10-09",
+        "total_vantagens": 42919.24,
+        "total_descontos": 14909.9,
+        "liquido": 28009.34,
+        "vantagens": [
+          {
+            "codigo": "00002",
+            "rubrica": "VENCIMENTO",
+            "info": "I01",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-09",
+            "valor": 20629.16
+          },
+          {
+            "codigo": "00507",
+            "rubrica": "AUXILIO ALIMENTACAO SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-09",
+            "valor": 3800.0
+          },
+          {
+            "codigo": "00605",
+            "rubrica": "ASSISTENCIA MEDICO SOCIAL SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-09",
+            "valor": 5700.0
+          },
+          {
+            "codigo": "01504",
+            "rubrica": "GRT RISCO DE VIDA GOATE",
+            "info": "5.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-09",
+            "valor": 1031.46
+          },
+          {
+            "codigo": "01636",
+            "rubrica": "GRT OPERACOES FISCAIS",
+            "info": "15%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-09",
+            "valor": 3094.37
+          },
+          {
+            "codigo": "02012",
+            "rubrica": "GRT RESULTADOS GOATE",
+            "info": "42.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-09",
+            "valor": 8664.25
+          }
+        ],
+        "descontos": [
+          {
+            "codigo": "04002",
+            "rubrica": "FUNAPREV",
+            "info": "14.00%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-09",
+            "valor": 1186.58
+          },
+          {
+            "codigo": "04006",
+            "rubrica": "PREV COMPLEM PATROC",
+            "info": "8.50%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-09",
+            "valor": 2120.21
+          },
+          {
+            "codigo": "04061",
+            "rubrica": "Desconto de Imposto de Renda",
+            "info": "21.747712%  1 Vinc",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-09",
+            "valor": 7267.92
+          },
+          {
+            "codigo": "04506",
+            "rubrica": "BRADESCO S/A",
+            "info": "009/024",
+            "complemento": "EMPRESTIMO CONSIG 07",
+            "mes_ano_direito": "2026-09",
+            "valor": 2525.73
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "008/999",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-09",
+            "valor": 117.5
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "004/999",
+            "complemento": "PL SAUDE UNIMED",
+            "mes_ano_direito": "2026-09",
+            "valor": 1485.67
+          },
+          {
+            "codigo": "04734",
+            "rubrica": "SIND DOS FUNC INTG DO GRUPO OCUPAC AUDITORIA TES EST PE",
+            "info": "1.00%",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-09",
+            "valor": 206.29
+          }
+        ]
+      },
+      {
+        "mes_ano": "2026-10",
+        "folha": "[REAL] Calc Mensal Ati/Ina/Res/Ref",
+        "numero_folha": 1,
+        "ficha": "26098276659",
+        "data_credito": "2026-10-27",
+        "total_vantagens": 42919.24,
+        "total_descontos": 14909.9,
+        "liquido": 28009.34,
+        "vantagens": [
+          {
+            "codigo": "00002",
+            "rubrica": "VENCIMENTO",
+            "info": "I01",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-10",
+            "valor": 20629.16
+          },
+          {
+            "codigo": "00507",
+            "rubrica": "AUXILIO ALIMENTACAO SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-10",
+            "valor": 3800.0
+          },
+          {
+            "codigo": "00605",
+            "rubrica": "ASSISTENCIA MEDICO SOCIAL SEFAZ",
+            "info": null,
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-10",
+            "valor": 5700.0
+          },
+          {
+            "codigo": "01504",
+            "rubrica": "GRT RISCO DE VIDA GOATE",
+            "info": "5.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-10",
+            "valor": 1031.46
+          },
+          {
+            "codigo": "01636",
+            "rubrica": "GRT OPERACOES FISCAIS",
+            "info": "15%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-10",
+            "valor": 3094.37
+          },
+          {
+            "codigo": "02012",
+            "rubrica": "GRT RESULTADOS GOATE",
+            "info": "42.00%",
+            "complemento": "No Reg",
+            "mes_ano_direito": "2026-10",
+            "valor": 8664.25
+          }
+        ],
+        "descontos": [
+          {
+            "codigo": "04002",
+            "rubrica": "FUNAPREV",
+            "info": "14.00%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-10",
+            "valor": 1186.58
+          },
+          {
+            "codigo": "04006",
+            "rubrica": "PREV COMPLEM PATROC",
+            "info": "8.50%",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-10",
+            "valor": 2120.21
+          },
+          {
+            "codigo": "04061",
+            "rubrica": "Desconto de Imposto de Renda",
+            "info": "21.747712%  1 Vinc",
+            "complemento": "Normal",
+            "mes_ano_direito": "2026-10",
+            "valor": 7267.92
+          },
+          {
+            "codigo": "04506",
+            "rubrica": "BRADESCO S/A",
+            "info": "010/024",
+            "complemento": "EMPRESTIMO CONSIG 07",
+            "mes_ano_direito": "2026-10",
+            "valor": 2525.73
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "009/999",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-10",
+            "valor": 117.5
+          },
+          {
+            "codigo": "04704",
+            "rubrica": "ANSERJUFE",
+            "info": "005/999",
+            "complemento": "PL SAUDE UNIMED",
+            "mes_ano_direito": "2026-10",
+            "valor": 1485.67
+          },
+          {
+            "codigo": "04734",
+            "rubrica": "SIND DOS FUNC INTG DO GRUPO OCUPAC AUDITORIA TES EST PE",
+            "info": "1.00%",
+            "complemento": "MENSALIDADE",
+            "mes_ano_direito": "2026-10",
+            "valor": 206.29
+          }
+        ]
+      }
+    ]
+  }

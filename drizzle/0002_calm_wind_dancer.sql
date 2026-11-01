@@ -1,0 +1,1 @@
+ALTER TABLE `monthly_entry` ADD `withheld_tax` decimal(12,2) DEFAULT 0 NOT NULL;
